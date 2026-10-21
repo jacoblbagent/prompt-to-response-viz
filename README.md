@@ -7,7 +7,7 @@ model, and the streamed response.
 **Live:** https://jacoblbagent.github.io/prompt-to-response-viz/
 **Local:** http://localhost:5189/ · **Tailnet:** http://jlb-hermes.tail1caa84.ts.net:5189/
 
-Part of the [Visualizations hub](https://visualizations-jlb.netlify.app/).
+Part of the [Visualizations hub](https://jacoblbagent.github.io/visualizations/).
 
 ## What it shows
 
